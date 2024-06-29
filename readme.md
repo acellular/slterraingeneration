@@ -51,7 +51,7 @@ which can sometimes help reduce artifacts from the base erosion model in `SLHydr
 
 Setup with custom parameters as found in example program:
 ```cpp
-// set parameters (here using my terrible unsafe config parser)
+// set parameters
 SLTerrain::FBMParams fbmParams;
 fbmParams.seed = config["seed"];
 fbmParams.octaves = config["octaves"];
