@@ -23,7 +23,8 @@ Author: Michael Tuck, acellular.itch.io, 2024.
 MIT LICENCE
 
 ![Example terrain output with ages 250 and 10000](example/exampleImages/terrainExample.png)
-Example output from the same seed (59339) with a terrain `age` of 250 on left and 10000 on right.
+Example output from the same seed (59339) with a terrain `age`
+(controlling the number of erosion iterations) of 250 on left and 10000 on right.
 
 
 ## Using SLTerrain
