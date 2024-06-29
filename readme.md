@@ -19,7 +19,7 @@ simulate water flow and erosion. The example program outputs to bmp a heightmap,
 map, an erosion and deposition map, and a terrain map (using aspect and slope to create highlights and shadows).
 Most of the model parameters are adjustable in the example program's config.ini.
 
-Author: Michael Tuck, acellular.itch.io, contact@michaeltuck.com, 2024.
+Author: Michael Tuck, acellular.itch.io, 2024.
 MIT LICENCE
 
 ![Example terrain output with ages 250 and 10000](example/exampleImages/terrainExample.png)
