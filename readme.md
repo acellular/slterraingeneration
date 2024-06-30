@@ -24,7 +24,7 @@ MIT LICENCE
 
 ![Example terrain output with ages 250 and 10000](example/exampleImages/terrainExample.png)
 Example output from the same seed (59339) with a terrain `age`
-(controlling the number of erosion iterations) of 250 on left and 10000 on right.
+(controlling the number of erosion iterations) of 250 on the left and 10000 on the right.
 
 
 ## Using SLTerrain
@@ -218,4 +218,4 @@ and matrix save and load functions, super basic vector math functions, etc.
 
 
 ...
-This is the end.
+You've reached the end.
